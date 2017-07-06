@@ -1,6 +1,8 @@
 # Smart Lock Launcher
 **[ROOT REQUIRED]** A small shortcut to open Google's Smart Lock settings for Chinese ROMs.
 
+<a href='https://play.google.com/store/apps/details?id=net.rachel030219.smartlocklauncher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 ### License
 
 ```
