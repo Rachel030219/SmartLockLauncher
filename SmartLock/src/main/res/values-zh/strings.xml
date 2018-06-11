@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_gms_unavailable">请确认 Google 服务已经正确安装并未被冻结</string>
+    <string name="err_root_unavailable">请确认设备已经获取 Root 权限</string>
+</resources>
