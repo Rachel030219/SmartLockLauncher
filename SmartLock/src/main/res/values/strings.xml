@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Lock</string>
+    <string name="err_gms_unavailable">Please make sure that Google Mobile Services are installed and enabled on your phone.</string>
+    <string name="err_root_unavailable">Please make sure that your device is correctly rooted.</string>
+</resources>
