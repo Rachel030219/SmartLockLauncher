@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AlternativeLauncher.iml" filepath="$PROJECT_DIR$/AlternativeLauncher.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartLock/SmartLock.iml" filepath="$PROJECT_DIR$/SmartLock/SmartLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartLockLauncher.iml" filepath="$PROJECT_DIR$/SmartLockLauncher.iml" />
     </modules>
